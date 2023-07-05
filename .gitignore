@@ -3,6 +3,6 @@ node_modules
 /_site
 .DS_Store
 .vercel
-/apiKey-dev.js
-apiKey.js
+# /apiKey-dev.js
+# apiKey.js
 assets/3D/reflect.glb
